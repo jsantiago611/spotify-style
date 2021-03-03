@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: cta_section
     template: cta_section
-    title: Ready to get started?
     content: |
       ## Welcome to Jonathan Santiago's personal online journal.
 
