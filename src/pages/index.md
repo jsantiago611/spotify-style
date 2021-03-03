@@ -11,6 +11,7 @@ sections:
         label: Explore
         url: /thank-you
         style: secondary
+        has_icon: true
     actions_width: fourty
     align: left
     padding_top: large
