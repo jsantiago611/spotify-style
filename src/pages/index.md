@@ -4,7 +4,7 @@ sections:
   - type: cta_section
     template: cta_section
     content: >
-      # Welcome to Jonathan Santiago's personal online journal.
+      # Welcome to Jonathan Santiago's personal online lab.
 
 
       # It hosts some book notes, sermon notes, prayer guides and other thoughts
