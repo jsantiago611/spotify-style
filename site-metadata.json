@@ -30,7 +30,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "BLOG",
+                "label": "Blog",
                 "url": "/blog",
                 "style": "link"
             },
@@ -98,7 +98,7 @@
                 "style": "link"
             }
         ],
-        "has_tertiary_nav": true,
+        "has_tertiary_nav": false,
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
