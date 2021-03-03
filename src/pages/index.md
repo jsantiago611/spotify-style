@@ -37,7 +37,6 @@ sections:
     background_image_opacity: 10
     background_image_size: cover
     background_image_position: center top
-  
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
