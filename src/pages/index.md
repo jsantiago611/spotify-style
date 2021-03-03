@@ -1,22 +1,6 @@
 ---
 title: Home
 sections:
-  - type: blog_feed_section
-    template: blog_feed_section
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_date: true
-    show_categories: true
-    show_author: false
-    show_excerpt: false
-    show_image: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - type: cta_section
     template: cta_section
     title: Ready to get started?
@@ -36,6 +20,22 @@ sections:
     background_image_opacity: 10
     background_image_size: cover
     background_image_position: center top
+  - type: blog_feed_section
+    template: blog_feed_section
+    blog_feed_cols: three
+    enable_cards: true
+    show_recent: true
+    recent_count: 3
+    show_date: true
+    show_categories: true
+    show_author: false
+    show_excerpt: false
+    show_image: true
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
