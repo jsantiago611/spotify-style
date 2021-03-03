@@ -19,7 +19,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image_opacity: 10
+    background_image_opacity: 50
     background_image_size: cover
     background_image_position: center top
     background_image: /images/hero_gradient.webp
