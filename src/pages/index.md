@@ -6,9 +6,7 @@ sections:
     content: |+
       # Welcome to Jonathan Santiago's personal online journal.
 
-
-
-      \---
+      # ---
 
     actions:
       - type: action
