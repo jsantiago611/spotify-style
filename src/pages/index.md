@@ -3,8 +3,13 @@ title: Home
 sections:
   - type: cta_section
     template: cta_section
-    content: |
+    content: |+
       # Welcome to Jonathan Santiago's personal online journal.
+
+
+
+      \---
+
     actions:
       - type: action
         template: action
