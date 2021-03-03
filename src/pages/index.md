@@ -1,27 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    template: hero_section
-    title: Achieve your Goals!
-    subtitle: Celebrating daily wins with YourGoal.
-    actions:
-      - type: action
-        template: action
-        label: Try for free
-        url: /pricing
-        style: primary
-    image: images/hero.svg
-    image_alt: Hero section placeholder image
-    media_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: small
-    background_color: none
-    background_image: images/background.svg
-    background_image_opacity: 60
-    background_image_size: auto
-    background_image_position: center top
   - type: grid_section
     template: grid_section
     title: Featured On
