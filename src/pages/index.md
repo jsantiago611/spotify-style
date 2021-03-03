@@ -7,8 +7,8 @@ sections:
       # Welcome to Jonathan Santiago's personal online journal.
 
 
-      # It hosts some book notes, sermon notes, prayer guides and other thoughts
-      on faith, prayer, parenting. 
+      It hosts some book notes, sermon notes, prayer guides and other thoughts
+      on faith, prayer, parenting.
     actions:
       - type: action
         template: action
