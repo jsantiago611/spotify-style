@@ -97,13 +97,6 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Terms & Conditions",
-                "url": "/terms-conditions",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "template": "action",
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link"
