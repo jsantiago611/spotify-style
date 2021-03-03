@@ -4,7 +4,12 @@ sections:
   - type: cta_section
     template: cta_section
     title: Ready to get started?
-    content: Start achieving your goals today!
+    content: |
+      ## Welcome to Jonathan Santiago's personal online journal.
+
+
+
+       
     actions:
       - type: action
         template: action
