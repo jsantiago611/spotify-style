@@ -37,8 +37,6 @@ sections:
     background_image_opacity: 10
     background_image_size: cover
     background_image_position: center top
- 
- 
     type: hero_section
 seo:
   type: stackbit_page_meta
