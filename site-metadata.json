@@ -8,7 +8,7 @@
     "header": {
         "type": "header",
         "template": "header",
-        "title": "Startup",
+        "title": "Journal",
         "logo_alt": "YourGoal logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
