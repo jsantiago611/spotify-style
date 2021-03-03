@@ -14,7 +14,6 @@ excerpt: >-
   philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
   affecit, quanto.
 thumb_image_alt: Post 5 placeholder image
-image: images/post-5.jpg
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
