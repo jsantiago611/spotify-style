@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: blog_feed_section
     template: blog_feed_section
-    title: What's New
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
