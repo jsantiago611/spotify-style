@@ -10,7 +10,7 @@ sections:
         template: action
         label: Try for free
         url: /thank-you
-        style: primary
+        style: secondary
     actions_width: fourty
     align: center
     padding_top: large
