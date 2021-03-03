@@ -9,6 +9,7 @@ sections:
     padding_top: large
     padding_bottom: none
     background_image: /images/hero_gradient.webp
+    background_image_opacity: 50
   - type: grid_section
     template: grid_section
     grid_items:
