@@ -38,7 +38,6 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Stackbit Startup Theme
   description: The preview of the Startup theme
   extra:
     - name: 'og:type'
