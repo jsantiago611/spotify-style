@@ -30,7 +30,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "BLOG",
+                "label": "Blog",
                 "url": "/blog",
                 "style": "link"
             },
