@@ -12,7 +12,7 @@ sections:
         url: /thank-you
         style: secondary
     actions_width: fourty
-    align: center
+    align: left
     padding_top: large
     padding_bottom: large
     background_color: none
