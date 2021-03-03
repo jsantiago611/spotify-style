@@ -15,7 +15,7 @@ excerpt: >-
   affecit, quanto.
 thumb_image_alt: Post 5 placeholder image
 image_alt: Post 5 placeholder image
-image_position: right
+image_position: top
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
