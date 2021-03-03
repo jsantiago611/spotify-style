@@ -1,20 +1,6 @@
 ---
 title: Home
 sections:
-  - type: features_section
-    template: features_section
-    features:
-      - type: feature
-        template: feature
-        title: >-
-          “I love how lightweight and easy it is to use. It intuitively builds
-          into my day-to-day rhythm, and the natural flow of my day.”
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
-        image_alt: Ursula Gurnmeister photo
-        media_position: left
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: none
   - type: blog_feed_section
     template: blog_feed_section
     title: What's New
