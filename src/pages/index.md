@@ -12,6 +12,7 @@ sections:
         url: /thank-you
         style: secondary
         icon: arrow-right
+        icon_position: right
     actions_width: fourty
     align: left
     padding_top: large
