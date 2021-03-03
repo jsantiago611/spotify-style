@@ -8,6 +8,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: none
+    background_image: /images/hero_gradient.webp
   - type: grid_section
     template: grid_section
     grid_items:
