@@ -8,7 +8,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: EXPLORE
+        label: Explore
         url: /thank-you
         style: secondary
     actions_width: fourty
