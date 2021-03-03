@@ -13,6 +13,7 @@ sections:
         style: secondary
         icon: arrow-right
         icon_position: right
+        has_icon: true
     actions_width: fourty
     align: left
     padding_top: large
