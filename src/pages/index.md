@@ -4,7 +4,7 @@ sections:
   - type: cta_section
     template: cta_section
     content: |
-      # discipleship for a new generation
+      # Discipleship for a new generation
     actions:
       - type: action
         template: action
