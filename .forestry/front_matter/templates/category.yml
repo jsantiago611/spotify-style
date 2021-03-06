@@ -27,6 +27,7 @@ fields:
   config:
     required: true
 pages:
+- src/data/categories/book-summaries.yaml
 - src/data/categories/news.yaml
 - src/data/categories/tips.yaml
 - src/data/categories/use-cases.yaml
