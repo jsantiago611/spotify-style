@@ -21,6 +21,15 @@ html {
    font-display: swap;
 }
 
+  @font-face {
+   font-family: 'Neue';
+   src: url('../fonts/NeueHaasGroteskDisplay-Reg.otf') format('opentype');
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+
+
 body {
 	background-color: $color-body-bg;
 	color: $color-body-text;
@@ -57,7 +66,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Inter';
+    font-family: 'Neue', 'Inter';
 	font-weight: 500;
 	line-height: 1.2;
     margin: 1.25em 0 0.5em;
@@ -112,7 +121,7 @@ blockquote {
 	margin: 0 0 1em;
 	padding: 0 0 0 2.22222em;
     position: relative;
-    font-family: 'Eksell';
+    font-family: 'Neue';
     color:  rgb(72, 74, 179);
 
 
