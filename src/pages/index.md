@@ -3,8 +3,6 @@ title: Home
 sections:
   - type: cta_section
     template: cta_section
-    content: |
-      #
     actions:
       - type: action
         template: action
