@@ -43,7 +43,7 @@ export default class Header extends React.Component {
             				<span className="sr-only">Menu</span>
             			</button>
                         <button onclick="myFunction()">Toggle dark mode</button>
-                            <script></</script>
+                            <script></script>
             			</React.Fragment>)}
             		</nav>
             	</div>
