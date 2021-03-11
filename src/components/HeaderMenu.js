@@ -22,7 +22,7 @@ export default class HeaderMenu extends React.Component {
             })}
             </ul>
 
-            <button
+            <button>Hi</button>
         );
     }
 }
