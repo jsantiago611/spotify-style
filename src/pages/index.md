@@ -21,7 +21,7 @@ sections:
     background_image_size: cover
     background_image_position: center top
     content: |
-      ## Build Successful Spiritual Habits
+      # Build Successful Spiritual Habits
 
       with Book summaries, sermons summaries, articles, and more!
   - type: blog_feed_section
