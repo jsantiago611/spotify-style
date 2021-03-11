@@ -126,7 +126,9 @@
 	}
 }
 
-    .cta
+    .cta__copy {
+        margin-top: 0;
+    }
 
 @include media-breakpoint-up(md) {
 	.cta__actions {
