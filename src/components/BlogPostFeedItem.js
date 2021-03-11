@@ -40,7 +40,13 @@ export default class BlogPostFeedItem extends React.Component {
                 			<div className={classNames('item__media', 'mb-3', {'card__media': is_card, 'card__media--fill': is_card, 'card__media--top': is_card})}>
                 				<Link to={withPrefix(_.get(post, 'url', null))}><img src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} /></Link>
                 			</div>
-                			)}
+                            )}
+                            {show_categories && (<React.Fragment>
+                						<BlogPostCategories {...this.props} categories={_.get(post, 'frontmatter.categories', null)} container_class={'item__cat'} />
+                						{_.get(blog_feed_section, 'show_date', null) && (
+                							<span className="item__meta-sep"> &middot; </span>
+                						)}
+                					</React.Fragment>)}
                 			<div className={classNames('item__body', {'px-3': is_card, 'pb-3': is_card, 'pt-3': is_card && no_image, 'px-sm-4': is_card, 'pb-sm-4': is_card, 'pt-4': is_card && no_image})}>
                 				{(_.get(blog_feed_section, 'show_date', null) || show_categories) && (
                 				<div className="item__meta mb-1">
