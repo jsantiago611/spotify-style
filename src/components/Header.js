@@ -44,7 +44,8 @@ export default class Header extends React.Component {
             			</button>
                         <button onclick="myFunction()">Toggle dark mode</button>
                             <script>
-                                
+                                   localStorage.getItem('theme') && 
+        document.documentElement.setAttribute('data-theme', localStorage.getItem('theme'))
                             </script>
             			</React.Fragment>)}
             		</nav>
