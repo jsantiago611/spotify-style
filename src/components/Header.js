@@ -44,11 +44,11 @@ export default class Header extends React.Component {
             			</button>
                         <button onclick="myFunction()">Toggle dark mode</button>
                         <script>
-function myFunction() {
-   var element = document.body;
-   element.classList.toggle("dark-mode");
-}
-</script>
+                            function myFunction() {
+                            var element = document.body;
+                            element.classList.toggle("dark-mode");
+                            }
+                            </script>
             			</React.Fragment>)}
             		</nav>
             	</div>
