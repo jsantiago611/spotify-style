@@ -292,7 +292,7 @@ figcaption {
     max-height: 0;
     overflow: hidden;
     position: relative;
-    transition: max-height 0.4s $animation-curve-default;
+    transition: max-height 0.4s ;
 
     &.is-open {
         max-height: 11rem;
