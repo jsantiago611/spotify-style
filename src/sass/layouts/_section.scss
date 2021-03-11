@@ -127,7 +127,7 @@
 }
         
 .cta__copy .h1 {
-color:red($color: #000000)
+color:red;
 }
 
 @include media-breakpoint-up(md) {
