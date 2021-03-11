@@ -45,7 +45,7 @@ export default class Header extends React.Component {
                         <button onclick="myFunction()">Toggle dark mode</button>
                         <script>
                             function myFunction() {
-                            classList.toggle("dark-mode");
+                            classList.toggle("dark-mode")
                             }
                             </script>
             			</React.Fragment>)}
