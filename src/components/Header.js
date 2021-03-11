@@ -42,10 +42,7 @@ export default class Header extends React.Component {
             				<Icon {...this.props} icon={'menu'} />
             				<span className="sr-only">Menu</span>
             			</button>
-                        <button class="iconbtn nav__togglebtn js-nav-toggle"
-        aria-expanded="false"
-        aria-controls="nav-menu"
-        aria-label="toggle menu">hello</button>
+                        <button className="iconbtn">hello</button>
             			</React.Fragment>)}
             		</nav>
             	</div>
