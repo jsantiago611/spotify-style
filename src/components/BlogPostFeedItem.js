@@ -35,7 +35,12 @@ export default class BlogPostFeedItem extends React.Component {
             <React.Fragment>
                 <article className={classNames('cell-12', 'cell-md-6', 'my-2', {'cell-lg-4': columns === 'three'})}>
                 	<div className={classNames('item', {'card': is_card, 'card--highlight': is_card, 'card--vert': is_card})}>
-                		
+                		{show_categories && (<React.Fragment>
+                						<BlogPostCategories {...this.props} categories={_.get(post, 'frontmatter.categories', null)} container_class={'item__cat'} />
+                						{_.get(blog_feed_section, 'show_date', null) && (
+                							<span className="item__meta-sep"> &middot; </span>
+                						)}
+                					</React.Fragment>)}
                         <div className="flex flex-column">
                 			{(has_image && show_image) && (
                 			<div className={classNames('item__media', 'mb-3', {'card__media': is_card, 'card__media--fill': is_card, 'card__media--top': is_card})}>
