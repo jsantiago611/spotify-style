@@ -42,14 +42,10 @@ export default class Header extends React.Component {
             				<Icon {...this.props} icon={'menu'} />
             				<span className="sr-only">Menu</span>
             			</button>
-                        <head>
-    <link rel="stylesheet" href="/assets/css/main.css">
-    <script>
-        // if there's a theme id in localstorage, use it on the <html>
-        localStorage.getItem('theme') && 
-        document.documentElement.setAttribute('data-theme', localStorage.getItem('theme'))
-    </script>
-</head>
+                        <button onclick="myFunction()">Toggle dark mode</button>
+                            <script>
+                               
+                            </script>
             			</React.Fragment>)}
             		</nav>
             	</div>
