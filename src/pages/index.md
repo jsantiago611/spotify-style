@@ -23,7 +23,7 @@ sections:
     content: |
       # Build Successful Spiritual Habits
 
-      #### with Book summaries, sermons summaries, articles, and more!
+      with Book summaries, sermons summaries, articles, and more!
   - type: blog_feed_section
     template: blog_feed_section
     blog_feed_cols: three
