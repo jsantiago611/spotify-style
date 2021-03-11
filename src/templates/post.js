@@ -44,7 +44,7 @@ export default class Post extends React.Component {
             					</React.Fragment>)}
             					<span className="post__date"><time dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%B %d, %Y')}</time></span>
             				</div>
-            				<h1 style={{fontSize=}} className="post__title mt-0">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
+            				<h1 style={{fontSize=3em}} className="post__title mt-0">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
             				{_.get(this.props, 'pageContext.frontmatter.subtitle', null) && (
             					<p className="post__subtitle">{_.get(this.props, 'pageContext.frontmatter.subtitle', null)}</p>
             				)}
