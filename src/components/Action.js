@@ -25,4 +25,4 @@ export default class Action extends React.Component {
     }
 }
 
-<a> </a>
+<a> button</a>
