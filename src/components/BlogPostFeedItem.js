@@ -38,7 +38,7 @@ export default class BlogPostFeedItem extends React.Component {
                 		<div className="flex flex-column">
                 			{(has_image && show_image) && (
                 			<div className={classNames('item__media', 'mb-3', {'card__media': is_card, 'card__media--fill': is_card, 'card__media--top': is_card})}>
-                				<Link to={withPrefix(_.get(post, 'url', null))}><img style="padding:20px" src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} /></Link>
+                				<Link to={withPrefix(_.get(post, 'url', null))}><img style={"padding:20px" src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} /></Link>
                 			</div>
                 			)}
                 			<div className={classNames('item__body', {'px-3': is_card, 'pb-3': is_card, 'pt-3': is_card && no_image, 'px-sm-4': is_card, 'pb-sm-4': is_card, 'pt-4': is_card && no_image})}>
