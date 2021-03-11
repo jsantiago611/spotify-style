@@ -42,10 +42,7 @@ export default class Header extends React.Component {
             				<Icon {...this.props} icon={'menu'} />
             				<span className="sr-only">Menu</span>
             			</button>
-                        <button onclick="myFunction()">Toggle dark mode</button>
-                            <script>
-                               
-                            </script>
+                       
             			</React.Fragment>)}
             		</nav>
             	</div>
