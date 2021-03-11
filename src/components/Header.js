@@ -42,7 +42,12 @@ export default class Header extends React.Component {
             				<Icon {...this.props} icon={'menu'} />
             				<span className="sr-only">Menu</span>
             			</button>
-                        <button className=".js-themepicker-toggle">Switch Colors</button>
+                        <button 
+                        function myFunction() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+}
+                        className=".js-themepicker-toggle">Switch Colors</button>
                         </React.Fragment>)}
                         
             		</nav>
