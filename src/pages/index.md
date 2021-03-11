@@ -21,7 +21,7 @@ sections:
     background_image_size: cover
     background_image_position: center top
     content: |
-      # Discipleship for a new generation
+      # Build Successful Spiritual Habits
   - type: blog_feed_section
     template: blog_feed_section
     blog_feed_cols: three
