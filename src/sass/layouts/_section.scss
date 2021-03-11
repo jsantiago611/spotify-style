@@ -129,10 +129,6 @@
 @include media-breakpoint-up(md) {
 	.cta__actions {
 		&.justify-md-center {
-             margin-top: .25em;
-        margin-right: 0px;
-        margin-bottom: 0.5em;
-        margin-left: 0px;
 			.btn {
 				margin-left: 0.5em;
 				margin-right: 0.5em;
