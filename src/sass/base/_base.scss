@@ -292,7 +292,7 @@ h6 {
 	font-weight: 500;
 	line-height: 1.2;
     margin: 1.25em 0 0.5em;
-    color: $color-body-bg;
+    color: var(--color-primary);
 
 	&:first-child {
 		margin-top: 0;
