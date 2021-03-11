@@ -42,7 +42,7 @@ export default class Header extends React.Component {
             				<Icon {...this.props} icon={'menu'} />
             				<span className="sr-only">Menu</span>
             			</button>
-                        <a></a>
+                        <a>hello</a>
             			</React.Fragment>)}
             		</nav>
             	</div>
