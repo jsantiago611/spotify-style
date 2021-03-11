@@ -3,7 +3,13 @@ const SELECTORS = {
     toggleBtn: '.js-themepicker-toggle',
     themeSelectBtn: '.js-themepicker-themeselect',
     closeBtn: '.js-themepicker-close',
-    navToggleBtn: '.js-nav-toggle'
+    _navToggleBtn: '.js-nav-toggle',
+    get navToggleBtn() {
+        return this._navToggleBtn;
+    },
+    set navToggleBtn(value) {
+        this._navToggleBtn = value;
+    },
 }
 const CLASSES = {
     open: 'is-open',
