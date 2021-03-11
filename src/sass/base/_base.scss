@@ -50,7 +50,7 @@ html {
 
 body {
 	background-color: $color-body-bg;
-	color: $color-body-text;
+	color: var($color-body-text;
 	line-height: 1.66667;
 	text-rendering: optimizeLegibility;
 	@include font-smooth();
