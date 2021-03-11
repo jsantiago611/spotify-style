@@ -21,6 +21,7 @@ export default class Action extends React.Component {
             		_.get(action, 'label', null)
             	}
             </Link>
+            <button>Hi</button>
         );
     }
 }
