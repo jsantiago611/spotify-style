@@ -1,5 +1,5 @@
 ---
-title: What Are Some Good Daily Goals to Set?
+title: What Are Some Good Daily Goals to Set? y
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
