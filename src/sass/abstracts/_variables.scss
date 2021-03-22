@@ -30,8 +30,8 @@ $theme-styles: (
 			sans-serif: ('IBM Plex Sans','Helvetica Neue', Helvetica, 'Roboto', sans-serif)
 		),
 		colors: (
-			blue:   #000000,
-			green:  #000000,
+			blue:   #9146FF,
+			green:  #9146FF,
 			red:    #ff3366
 		)
 	)
@@ -49,7 +49,7 @@ $color-primary:                        #45515e !default;
 // Base
 $color-body-text:                      #191414 !default;
 $color-meta:                           #8696a6 !default;
-$color-body-bg:                        #9146FF !default;
+$color-body-bg:                        #F0F0FF !default;
 
 // Highlight
 $color-highlight-text:                 #2c343c !default;
