@@ -12,7 +12,7 @@ sections:
   - type: blog_feed_section
     template: blog_feed_section
     blog_feed_cols: two
-    enable_cards: true
+    enable_cards: false
     show_recent: false
     show_date: true
     show_categories: true
